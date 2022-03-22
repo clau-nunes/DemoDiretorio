@@ -1,0 +1,15 @@
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\bin\Debug\net6.0\DemoDiretorio.exe
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\bin\Debug\net6.0\DemoDiretorio.deps.json
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\bin\Debug\net6.0\DemoDiretorio.runtimeconfig.json
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\bin\Debug\net6.0\DemoDiretorio.dll
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\bin\Debug\net6.0\DemoDiretorio.pdb
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.AssemblyInfoInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.AssemblyInfo.cs
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.dll
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\refint\DemoDiretorio.dll
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.pdb
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\DemoDiretorio.genruntimeconfig.cache
+C:\Users\claud\Desktop\dio bootcamp\DemoDiretorio\obj\Debug\net6.0\ref\DemoDiretorio.dll
